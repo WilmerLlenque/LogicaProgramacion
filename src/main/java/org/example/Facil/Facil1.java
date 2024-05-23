@@ -1,7 +1,7 @@
 package org.example.Facil;
 
 public class Facil1 {
-
+    //EL FAMOSO "FIZZ BUZZ"
     /*
      * Escribe un programa que muestre por consola (con un print) los
      * números de 1 a 100 (ambos incluidos y con un salto de línea entre
@@ -23,6 +23,10 @@ public class Facil1 {
             System.out.println(res.isEmpty() ? i : res);
             res="";
         }
+    }
+
+    public static void main(String[] args) {
+        numerosOneToOneHundred();
     }
 
 }

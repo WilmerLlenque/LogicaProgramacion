@@ -1,6 +1,7 @@
 package org.example.Facil;
 
 public class Facil2 {
+    //AREA DE UN POLIGONO
     /*
      * Crea una única función (importante que sólo sea una) que sea capaz
      * de calcular y retornar el área de un polígono.
